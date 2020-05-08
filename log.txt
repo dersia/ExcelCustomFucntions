@@ -1,0 +1,63 @@
+08/05/2020 11:55:31	Medium	Web Add-In Runtime Logging Session Started			
+08/05/2020 11:55:31	Verbose	CustomFunctions	[Metadata] [Parsing] [Begin]		
+08/05/2020 11:55:31	Verbose	CustomFunctions	[Metadata] [Parsing] [Begin] Function		
+08/05/2020 11:55:31	Medium	CustomFunctions	[Metadata] [Parsing] [End] [Success] Function=CONTOSO.ADD		
+08/05/2020 11:55:31	Verbose	CustomFunctions	[Metadata] [Parsing] [Begin] Function		
+08/05/2020 11:55:31	Medium	CustomFunctions	[Metadata] [Parsing] [End] [Success] Function=CONTOSO.CLOCK		
+08/05/2020 11:55:31	Verbose	CustomFunctions	[Metadata] [Parsing] [Begin] Function		
+08/05/2020 11:55:31	Medium	CustomFunctions	[Metadata] [Parsing] [End] [Success] Function=CONTOSO.INCREMENT		
+08/05/2020 11:55:31	Verbose	CustomFunctions	[Metadata] [Parsing] [Begin] Function		
+08/05/2020 11:55:31	Medium	CustomFunctions	[Metadata] [Parsing] [End] [Success] Function=CONTOSO.LOG		
+08/05/2020 11:55:31	Verbose	CustomFunctions	[Metadata] [Parsing] [Begin] Function		
+08/05/2020 11:55:31	Medium	CustomFunctions	[Metadata] [Parsing] [End] [Success] Function=CONTOSO.CONNECT_TO_SIGNALR		
+08/05/2020 11:55:31	Medium	CustomFunctions	[Metadata] [Parsing] [End] [Success]		
+08/05/2020 11:55:31	Verbose	CustomFunctions	[Installation] [Functions] [Begin] Solution=02bbe39b-2dab-44dd-b3ec-b471b8c75990, Workbook=Excel add-in 02bbe39b-2dab-44dd-b3ec-b471b8c75990.xlsx		
+08/05/2020 11:55:31	Verbose	CustomFunctions	[Registration] [Begin] Function=CONTOSO.ADD, Workbook=Excel add-in 02bbe39b-2dab-44dd-b3ec-b471b8c75990.xlsx		
+08/05/2020 11:55:31	Medium	CustomFunctions	[Registration] [End] [Success] Function=CONTOSO.ADD, Workbook=Excel add-in 02bbe39b-2dab-44dd-b3ec-b471b8c75990.xlsx		
+08/05/2020 11:55:31	Verbose	CustomFunctions	[Registration] [Begin] Function=CONTOSO.CLOCK, Workbook=Excel add-in 02bbe39b-2dab-44dd-b3ec-b471b8c75990.xlsx		
+08/05/2020 11:55:31	Medium	CustomFunctions	[Registration] [End] [Success] Function=CONTOSO.CLOCK, Workbook=Excel add-in 02bbe39b-2dab-44dd-b3ec-b471b8c75990.xlsx		
+08/05/2020 11:55:31	Verbose	CustomFunctions	[Registration] [Begin] Function=CONTOSO.INCREMENT, Workbook=Excel add-in 02bbe39b-2dab-44dd-b3ec-b471b8c75990.xlsx		
+08/05/2020 11:55:31	Medium	CustomFunctions	[Registration] [End] [Success] Function=CONTOSO.INCREMENT, Workbook=Excel add-in 02bbe39b-2dab-44dd-b3ec-b471b8c75990.xlsx		
+08/05/2020 11:55:31	Verbose	CustomFunctions	[Registration] [Begin] Function=CONTOSO.LOG, Workbook=Excel add-in 02bbe39b-2dab-44dd-b3ec-b471b8c75990.xlsx		
+08/05/2020 11:55:31	Medium	CustomFunctions	[Registration] [End] [Success] Function=CONTOSO.LOG, Workbook=Excel add-in 02bbe39b-2dab-44dd-b3ec-b471b8c75990.xlsx		
+08/05/2020 11:55:31	Verbose	CustomFunctions	[Registration] [Begin] Function=CONTOSO.CONNECT_TO_SIGNALR, Workbook=Excel add-in 02bbe39b-2dab-44dd-b3ec-b471b8c75990.xlsx		
+08/05/2020 11:55:31	Medium	CustomFunctions	[Registration] [End] [Success] Function=CONTOSO.CONNECT_TO_SIGNALR, Workbook=Excel add-in 02bbe39b-2dab-44dd-b3ec-b471b8c75990.xlsx		
+08/05/2020 11:55:31	Medium	CustomFunctions	[Installation] [Functions] [End] [Success] Solution=02bbe39b-2dab-44dd-b3ec-b471b8c75990, Workbook=Excel add-in 02bbe39b-2dab-44dd-b3ec-b471b8c75990.xlsx		
+08/05/2020 11:55:34	Verbose	CustomFunctions	[Installation] [Addin] [Begin] Solution=02bbe39b-2dab-44dd-b3ec-b471b8c75990, Version=1.1.0.0		
+08/05/2020 11:55:34	Medium	CustomFunctions	[Installation] [Addin] [End] [Success] Solution=02bbe39b-2dab-44dd-b3ec-b471b8c75990, Version=1.1.0.0		
+08/05/2020 11:55:34	Verbose	CustomFunctions	[Metadata] [Parsing] [Begin]		
+08/05/2020 11:55:34	Verbose	CustomFunctions	[Metadata] [Parsing] [Begin] Function		
+08/05/2020 11:55:34	Medium	CustomFunctions	[Metadata] [Parsing] [End] [Success] Function=CONTOSO.ADD		
+08/05/2020 11:55:34	Verbose	CustomFunctions	[Metadata] [Parsing] [Begin] Function		
+08/05/2020 11:55:34	Medium	CustomFunctions	[Metadata] [Parsing] [End] [Success] Function=CONTOSO.CLOUD_ADD		
+08/05/2020 11:55:34	Verbose	CustomFunctions	[Metadata] [Parsing] [Begin] Function		
+08/05/2020 11:55:34	Medium	CustomFunctions	[Metadata] [Parsing] [End] [Success] Function=CONTOSO.CLOCK		
+08/05/2020 11:55:34	Verbose	CustomFunctions	[Metadata] [Parsing] [Begin] Function		
+08/05/2020 11:55:34	Medium	CustomFunctions	[Metadata] [Parsing] [End] [Success] Function=CONTOSO.INCREMENT		
+08/05/2020 11:55:34	Verbose	CustomFunctions	[Metadata] [Parsing] [Begin] Function		
+08/05/2020 11:55:34	Medium	CustomFunctions	[Metadata] [Parsing] [End] [Success] Function=CONTOSO.CLOUD_INCREMENT		
+08/05/2020 11:55:34	Verbose	CustomFunctions	[Metadata] [Parsing] [Begin] Function		
+08/05/2020 11:55:34	Medium	CustomFunctions	[Metadata] [Parsing] [End] [Success] Function=CONTOSO.LOG		
+08/05/2020 11:55:34	Verbose	CustomFunctions	[Metadata] [Parsing] [Begin] Function		
+08/05/2020 11:55:34	Medium	CustomFunctions	[Metadata] [Parsing] [End] [Success] Function=CONTOSO.CONNECT_TO_SIGNALR		
+08/05/2020 11:55:34	Medium	CustomFunctions	[Metadata] [Parsing] [End] [Success]		
+08/05/2020 11:55:34	Verbose	CustomFunctions	[Installation] [Functions] [Begin] Solution=02bbe39b-2dab-44dd-b3ec-b471b8c75990, Workbook=Excel add-in 02bbe39b-2dab-44dd-b3ec-b471b8c75990.xlsx		
+08/05/2020 11:55:34	Verbose	CustomFunctions	[Registration] [Begin] Function=CONTOSO.ADD, Workbook=Excel add-in 02bbe39b-2dab-44dd-b3ec-b471b8c75990.xlsx		
+08/05/2020 11:55:34	Medium	CustomFunctions	[Registration] [End] [Success] Function=CONTOSO.ADD, Workbook=Excel add-in 02bbe39b-2dab-44dd-b3ec-b471b8c75990.xlsx		
+08/05/2020 11:55:34	Verbose	CustomFunctions	[Registration] [Begin] Function=CONTOSO.CLOUD_ADD, Workbook=Excel add-in 02bbe39b-2dab-44dd-b3ec-b471b8c75990.xlsx		
+08/05/2020 11:55:34	Medium	CustomFunctions	[Registration] [End] [Success] Function=CONTOSO.CLOUD_ADD, Workbook=Excel add-in 02bbe39b-2dab-44dd-b3ec-b471b8c75990.xlsx		
+08/05/2020 11:55:34	Verbose	CustomFunctions	[Registration] [Begin] Function=CONTOSO.CLOCK, Workbook=Excel add-in 02bbe39b-2dab-44dd-b3ec-b471b8c75990.xlsx		
+08/05/2020 11:55:34	Medium	CustomFunctions	[Registration] [End] [Success] Function=CONTOSO.CLOCK, Workbook=Excel add-in 02bbe39b-2dab-44dd-b3ec-b471b8c75990.xlsx		
+08/05/2020 11:55:34	Verbose	CustomFunctions	[Registration] [Begin] Function=CONTOSO.INCREMENT, Workbook=Excel add-in 02bbe39b-2dab-44dd-b3ec-b471b8c75990.xlsx		
+08/05/2020 11:55:34	Medium	CustomFunctions	[Registration] [End] [Success] Function=CONTOSO.INCREMENT, Workbook=Excel add-in 02bbe39b-2dab-44dd-b3ec-b471b8c75990.xlsx		
+08/05/2020 11:55:34	Verbose	CustomFunctions	[Registration] [Begin] Function=CONTOSO.CLOUD_INCREMENT, Workbook=Excel add-in 02bbe39b-2dab-44dd-b3ec-b471b8c75990.xlsx		
+08/05/2020 11:55:34	Medium	CustomFunctions	[Registration] [End] [Success] Function=CONTOSO.CLOUD_INCREMENT, Workbook=Excel add-in 02bbe39b-2dab-44dd-b3ec-b471b8c75990.xlsx		
+08/05/2020 11:55:34	Verbose	CustomFunctions	[Registration] [Begin] Function=CONTOSO.LOG, Workbook=Excel add-in 02bbe39b-2dab-44dd-b3ec-b471b8c75990.xlsx		
+08/05/2020 11:55:34	Medium	CustomFunctions	[Registration] [End] [Success] Function=CONTOSO.LOG, Workbook=Excel add-in 02bbe39b-2dab-44dd-b3ec-b471b8c75990.xlsx		
+08/05/2020 11:55:34	Verbose	CustomFunctions	[Registration] [Begin] Function=CONTOSO.CONNECT_TO_SIGNALR, Workbook=Excel add-in 02bbe39b-2dab-44dd-b3ec-b471b8c75990.xlsx		
+08/05/2020 11:55:34	Medium	CustomFunctions	[Registration] [End] [Success] Function=CONTOSO.CONNECT_TO_SIGNALR, Workbook=Excel add-in 02bbe39b-2dab-44dd-b3ec-b471b8c75990.xlsx		
+08/05/2020 11:55:34	Medium	CustomFunctions	[Installation] [Functions] [End] [Success] Solution=02bbe39b-2dab-44dd-b3ec-b471b8c75990, Workbook=Excel add-in 02bbe39b-2dab-44dd-b3ec-b471b8c75990.xlsx		
+08/05/2020 11:55:48	Verbose	CustomFunctions	[Execution] [Async] [Begin] Function=CONTOSO.CLOUD_ADD, Workbook=Excel add-in 02bbe39b-2dab-44dd-b3ec-b471b8c75990.xlsx		
+08/05/2020 11:55:48	Verbose	Runtime	[Console] [Log] Verbose CustomFunctions [Execution] [Begin] Function=CLOUD_ADD		
+08/05/2020 11:55:48	Verbose	Runtime	[Console] [Log] Unexpected CustomFunctions [Execution] [End] [Failure] [RejectedPromise] Function=CLOUD_ADD TypeError: Network request failed {}		
+08/05/2020 11:55:48	Unexpected	CustomFunctions	[Execution] [Async] [End] [Failure] Function=CLOUD_ADD, Workbook=Excel add-in 02bbe39b-2dab-44dd-b3ec-b471b8c75990.xlsx		
